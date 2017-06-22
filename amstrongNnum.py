@@ -1,6 +1,6 @@
 a=int(input("enter the starting number"))
 c=int(input("enter the ending number"))
-for j in range(a,c)
+for j in range(a,c):
  temp=j
  a1=str(j)
  b=len(a1)
